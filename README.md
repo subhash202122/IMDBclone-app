@@ -1,2 +1,2 @@
 # IMDBclone-app
-IMDB Clone app
+IMDB Clone app by Subhash
